@@ -1,3 +1,7 @@
+If u have any problem regarding script you can open a ticket from #〢urgent-help🎟 channel. discord server link - https://discord.gg/3Vs5jpXTcm discord tag - ᒎα爪ЄƧ#4411
+
+I will respond as soon as possible.
+
 # qb-hayesjob
 Simple hayes mechanic job for qbcore framework
 
